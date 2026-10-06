@@ -35,7 +35,7 @@ Those 53 rows hold: P8 A42 O14 U0, P|O 18. 35 of them carry A and no other flag;
 Counting only the 30 rows with no none mark: P20 A11 O14 U0, P|O 29.
 ```
 
-Fifty-three rows carry a flag and the none mark together; thirty-five of those carry A and no other flag, and eighteen carry P or O. The house instruction to each coder session gave none and uncertain their own true/false fields beside the three flags, and the block counts it both ways and I choose neither. Nothing was resolved after sealing. U is 0 in every cell, and I have no clean subset: I authored all 135 responses. Enclosed are codes.txt, the sealed file for checking the digest; key.json, my blind-id to noun, label, run mapping; and coder_instruction.txt, the house's exact words given to each session.
+Fifty-three rows carry a flag and the none mark together; thirty-five of those carry A and no other flag, and eighteen carry P or O. The house instruction to each coder session gave none and uncertain their own true/false fields beside the three flags, and the block counts it both ways and I choose neither. Nothing was resolved after sealing. U is 0 in every cell, and I have no clean subset: I authored all 135 responses. Enclosed are codes.txt, the sealed file for checking the digest; key.txt, my blind-id to noun, label, run mapping; and coder_instruction.txt, the house's exact words given to each session.
 
 Next: agreement flag by flag.
 
